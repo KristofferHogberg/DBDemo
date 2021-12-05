@@ -4,7 +4,7 @@ using System.Reflection;
 using Autofac;
 using DemoLibrary;
 
-namespace ConsoleUI
+namespace DependencyInjectionDemo
 {
     public static class ContainerConfig
     {

@@ -1,4 +1,4 @@
-﻿namespace ConsoleUI
+﻿namespace DependencyInjectionDemo
 {
     public interface IApplication
     {

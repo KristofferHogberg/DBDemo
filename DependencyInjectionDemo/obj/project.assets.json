@@ -66,9 +66,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/ConsoleUI.csproj",
-      "projectName": "ConsoleUI",
-      "projectPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/DependencyIOnjectionDemo.csproj",
+      "projectName": "DependencyIOnjectionDemo",
+      "projectPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/DependencyIOnjectionDemo.csproj",
       "packagesPath": "/Users/kristofferhogberg/.nuget/packages/",
       "outputPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/obj/",
       "projectStyle": "PackageReference",

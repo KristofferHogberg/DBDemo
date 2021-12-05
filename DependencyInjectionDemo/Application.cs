@@ -1,9 +1,9 @@
 ﻿using System;
 using DemoLibrary;
 
-namespace ConsoleUI
+namespace DependencyInjectionDemo
 {
-    public class Application
+    public class Application : IApplication
     {
         IBusinessLogic _businesLogic;
 

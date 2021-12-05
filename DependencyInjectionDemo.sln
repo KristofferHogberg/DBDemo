@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "DependencyInjectionDemo\ConsoleUI.csproj", "{59F1DE0D-7500-4C2D-BFA3-123591AEF476}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyIOnjectionDemo", "DependencyInjectionDemo\DependencyIOnjectionDemo.csproj", "{59F1DE0D-7500-4C2D-BFA3-123591AEF476}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{5AA458EB-5193-4214-972A-26CB14EC13E4}"
 EndProject

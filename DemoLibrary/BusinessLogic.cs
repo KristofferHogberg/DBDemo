@@ -3,7 +3,7 @@ using DemoLibrary.Utilities;
 
 namespace DemoLibrary
 {
-    public class BusinessLogic
+    public class BusinessLogic : IBusinessLogic
     {
         ILogger _logger;
         IDataAccess _dataAccess;

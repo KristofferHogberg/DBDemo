@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ks/FMD3dIXnsJcQK/WrAWxcLw09ayx1NhXcqePz2bP/ZcRH3UCj3o3swqrkndmEdBtc1oYZ1X893XYctJlZz0g==",
+  "success": true,
+  "projectFilePath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/kristofferhogberg/.nuget/packages/autofac/5.2.0/autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

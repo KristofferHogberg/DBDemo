@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{59F1DE0D-7500-4C2D-BFA3-123591AEF476}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjectionDemo/ContainerConfig.cs">
+    <Files>
+      <File FileName="DependencyInjectionDemo/Program.cs" Line="11" Column="13" />
+      <File FileName="DependencyInjectionDemo/ContainerConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjectionDemo" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="ContainerConfig.cs" selected="True" />
+            </Node>
+            <Node name="DemoLibrary" expanded="True">
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

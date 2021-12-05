@@ -1,0 +1,12 @@
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/bin/Debug/net5.0/DemoLibrary.deps.json
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/bin/Debug/net5.0/DemoLibrary.dll
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/bin/Debug/net5.0/ref/DemoLibrary.dll
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/bin/Debug/net5.0/DemoLibrary.pdb
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.csproj.AssemblyReference.cache
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.AssemblyInfoInputs.cache
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.AssemblyInfo.cs
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.dll
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/ref/DemoLibrary.dll
+/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/obj/Debug/net5.0/DemoLibrary.pdb

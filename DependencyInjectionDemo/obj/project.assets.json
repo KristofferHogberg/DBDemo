@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Autofac/5.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "DemoLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Autofac": "5.2.0"
+        },
+        "compile": {
+          "bin/placeholder/DemoLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/5.2.0": {
+      "sha512": "V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
+      "type": "package",
+      "path": "autofac/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.2.0.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "DemoLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DemoLibrary/DemoLibrary.csproj",
+      "msbuildProject": "../DemoLibrary/DemoLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Autofac >= 5.2.0",
+      "DemoLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kristofferhogberg/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/ConsoleUI.csproj",
+      "packagesPath": "/Users/kristofferhogberg/.nuget/packages/",
+      "outputPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DependencyInjectionDemo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kristofferhogberg/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/DemoLibrary.csproj": {
+              "projectPath": "/Users/kristofferhogberg/VisualStudio/DependencyInjectionDemo/DemoLibrary/DemoLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
